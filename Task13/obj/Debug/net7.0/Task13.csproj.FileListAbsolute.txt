@@ -1,0 +1,15 @@
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/bin/Debug/net7.0/Task13
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/bin/Debug/net7.0/Task13.deps.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/bin/Debug/net7.0/Task13.runtimeconfig.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/bin/Debug/net7.0/Task13.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/bin/Debug/net7.0/Task13.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.csproj.CoreCompileInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/refint/Task13.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/Task13.genruntimeconfig.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar3/HW2_3/task10/Task13/obj/Debug/net7.0/ref/Task13.dll
